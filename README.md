@@ -17,7 +17,7 @@ Prediction in Badminton". The demo video above (continuously looping) shows a sa
 - Real-time badminton trajectory prediction
 - MonoTrack-based feature extraction
 - Visualized pre-stroke drop prediction
-- Lightweight test implementation (`test5.py`)
+- Lightweight test implementation (`test.py`)
 
 ## Algorithm Workflow
 
