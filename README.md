@@ -1,4 +1,4 @@
-# TrackNetV2 with Pre-Stroke Drop Prediction
+# Conditional Gating–Based Cross-Fusion Network for Pre-Stroke Drop Point Prediction 
 
 <div align="center">
   <video width="90%" autoplay loop muted playsinline>
