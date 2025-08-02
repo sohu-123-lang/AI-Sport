@@ -3,8 +3,6 @@
 ## Demo Video
 ![Demo GIF](./TrackNetV2_together3-3-good3.gif)
 
-[Download Video](TrackNetV2_together3-3-good3.mp4) (Right-click → Save As)
-
 
 ## Project Overview
 
