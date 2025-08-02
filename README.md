@@ -1,12 +1,9 @@
 # Conditional Gating–Based Cross-Fusion Network for Pre-Stroke Drop Point Prediction 
 
-<div align="center">
-  <video width="90%" autoplay loop muted playsinline>
-    <source src="TrackNetV2_together3-3-good3.mp4" type="video/mp4">
-    Your browser does not support HTML5 video.
-  </video>
-  <p><em>Left: TrackNetV2 original input | Right: Drop prediction visualization</em></p>
-</div>
+## Demo Video
+[Download Video](TrackNetV2_together3-3-good3.mp4) (Right-click → Save As)
+
+<img src="https://user-images.githubusercontent.com/your-image.png" width="90%" alt="Video thumbnail"/>
 
 ## Project Overview
 
