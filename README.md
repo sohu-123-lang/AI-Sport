@@ -5,7 +5,6 @@
 
 [Download Video](TrackNetV2_together3-3-good3.mp4) (Right-click → Save As)
 
-<img src="https://user-images.githubusercontent.com/your-image.png" width="90%" alt="Video thumbnail"/>
 
 ## Project Overview
 
