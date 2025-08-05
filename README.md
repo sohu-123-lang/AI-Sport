@@ -1,13 +1,4 @@
 
-```markdown
-# Conditional Gating-Based Cross-Fusion Network for Pre-Stroke Drop Point Prediction in Badminton
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![PyTorch 1.12+](https://img.shields.io/badge/PyTorch-1.12+-red.svg)](https://pytorch.org/)
-
-![Network Architecture](4-ResultVisulization/architecture.png)
-
 This repository contains the official implementation of our paper:  
 **"A Conditional Gating–Based Cross-Fusion Network for Pre-Stroke Drop Point Prediction in Badminton"**  
 *(Currently under review at AAAI 2026)*
