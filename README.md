@@ -33,24 +33,6 @@ The model achieves **92.6% accuracy** (within 0.3m) and **97ms inference time**,
 | **Spatio-Temporal Encoding** | Dual-branch transformer architecture | Captures both trajectory dynamics and court positioning |
 | **Early Prediction** | Forecasts at stroke moment (not post-trajectory) | Provides 1.25s decision time advantage |
 
-## 📂 Project Structure
-```
-├── 1-PrecessedResultFromTrackNetV2/    # Video processing scripts
-├── 2-Data/                             # Processed datasets
-│   ├── InputData/                      # Model inputs
-│   │   ├── X1                          # 3D shuttlecock trajectories 
-│   │   ├── X2                          # Player positions
-│   │   ├── X3                          # Arm keypoint features
-│   │   └── X4                          # Stroke type labels
-│   └── LabelData/                      # Ground truth
-│       └── label y                     # Landing coordinates
-├── 3-SourceCode-Train&Test/            # Main implementation
-│   ├── train.py                        # Training script
-│   └── test.py                         # Evaluation metrics
-├── 4-ResultVisulization/               # Visualization tools
-├── 5-Evaluation/                       # Performance analysis
-```
-
 ## 🔧 Data Processing
 
 ### Step 1: Raw Video to Features
